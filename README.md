@@ -47,4 +47,3 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [ABSphreak](https://github.com/ABSphreak)
