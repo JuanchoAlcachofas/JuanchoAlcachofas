@@ -11,7 +11,7 @@
 <div align="center">
 
 Este es mi pequeño perfil de Github. <br>
-Apenas empece en el mundo de la programacion, espero llegar a ser un gram programador mas adelante. <br>
+Apenas empece en el mundo de la programacion, espero llegar a ser un gran programador mas adelante. <br>
 
 <i>Hasta luego!</i> 😊
 
